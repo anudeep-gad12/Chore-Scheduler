@@ -12,7 +12,7 @@ This application generates a clean-up schedule for roommates and automatically a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/anudeep-gad12/Chore-Scheduler`
 2. Open the project in your preferred Java IDE.
 3. Build the project using the IDE's build tools.
 4. Run the application.
